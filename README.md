@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! 👋, I'm Shruti Singhal</h1>
-<h3 align="center">Software Engineer @Volkswagen Group</h3>
+<h3 align="center">Software Engineer @Amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti29s&label=Profile%20views&color=0e75b6&style=flat" alt="shruti29s" /> </p>
 
